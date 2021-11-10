@@ -278,12 +278,12 @@
   },
   "nativeEndpoint" : [ {
     "passSecurityHeaders" : true,
-    "uri" : "https://nestlepovdev.int-aws-de.webmethods.io/integration/restv2/development/fl48e1f17887c10f3be394c3/CustomerInfoAPI",
+    "uri" : "/",
     "connectionTimeoutDuration" : 0,
     "alias" : false
   }, {
     "passSecurityHeaders" : true,
-    "uri" : "/",
+    "uri" : "https://nestlepovdev.int-aws-de.webmethods.io/integration/restv2/development/fl48e1f17887c10f3be394c3/CustomerInfoAPI",
     "connectionTimeoutDuration" : 0,
     "alias" : false
   } ],
